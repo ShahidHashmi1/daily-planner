@@ -82,7 +82,7 @@ GIVEN I am using a daily planner to create a schedule
 
 ## MOCK UP
 
-![Planner Mock Up](./Develop/assets/images/mockup-photo.png)
+![Planner Mock Up](./assets/images/mockup-photo.png)
 
 <hr>
 

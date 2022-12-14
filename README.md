@@ -11,8 +11,7 @@
 - [User Story](#user-story)
 - [Acceptance Criteria](#acceptance-criteria)
 - [Mock Up](#mock-up)
-- [Submission](#submission)
-- [Credits](#credits)
+- [Deployment](#deployment)
 - [License](#license)
 
 <hr>
@@ -86,29 +85,11 @@ GIVEN I am using a daily planner to create a schedule
 
 <hr>
 
-## SUBMISSION
+## Deployment
 
-The fully deployed webpage for this project can be found by using the GitHub Pages link below:
+The live webpage for this project can be found by using the GitHub Pages link below:
 
-https://shahidhashmi1.github.io/daily-planner/
-
-The supporting codebase and supporting files can be found by using the GitHub repository link below:
-
-https://github.com/ShahidHashmi1/daily-planner
-
-<hr>
-
-## Credits
-
-The collaborators on this project included cohort member, Achilles, cohort member, Corey, instructor Eric Weiss, and TA Michael Kotte.
-
-This project required a lot of reference to recent projects and coursework. The outside references included this site on [Template Literals][1], the [MDN][2] on getting items from local storage, and of course the libraries/ frameworks used for the project: [Bootstrap][3], [JQuery][4], and [Moment Js][5].
-
-[1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals "Template Literals"
-[2]: https://developer.mozilla.org/en-US/docs/Web/API/Storage/getItem "MDN"
-[3]: https://getbootstrap.com/docs/4.5/getting-started/introduction/ "Bootstrap"
-[4]: https://jqueryui.com/ "JQuery"
-[5]: https://momentjs.com/docs/#/displaying/ "Moment Js"
+<a href="https://shahidhashmi1.github.io/daily-planner/">GitHub Pages</a>
 
 <hr>
 
